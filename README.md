@@ -1,5 +1,7 @@
 # Hjalp - a CLI tool for quickly asking LLM a question
 
+![Hjalp with Cowsay](https://github.com/alex-karev/hjalp/blob/4c0ada34ad45567d9b17161259cc44567dec0042/screenshot.png)
+
 ## Feauters
 
 - No external dependencies.
