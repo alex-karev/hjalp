@@ -1,0 +1,21 @@
+{
+  "name": "hjalp",
+  "version": "1.0.0",
+  "description": "Quickly ask LLM anything directly in CLI",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "start": "node .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "hjalp": "./app.js"
+  },
+  "author": "Alex Karev",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^12.1.0",
+    "https-proxy-agent": "^7.0.5",
+    "openai": "^4.74.0"
+  }
+}
